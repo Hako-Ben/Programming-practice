@@ -1,4 +1,4 @@
-long	ft_abs(int n)
+long	hb_abs(int n)
 {
 	if (n < 0)
 		return ((long) n * -1);

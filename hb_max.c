@@ -1,4 +1,4 @@
-int	ft_max(int a, int b)
+int	hb_max(int a, int b)
 {
 	if (a >= b)
 		return (a);

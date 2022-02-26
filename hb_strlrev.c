@@ -1,6 +1,6 @@
 #include <string.h>
 
-char    *strlrev(char *str, unsigned int start, size_t len)
+char    *hb_strlrev(char *str, unsigned int start, size_t len)
 {
     char    tempa;
     size_t  str_len;

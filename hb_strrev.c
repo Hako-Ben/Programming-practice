@@ -1,6 +1,6 @@
 #include <string.h>
 
-char *ft_strrev(char *str)
+char *hb_strrev(char *str)
 {
     char    tempa;
     size_t  i;
