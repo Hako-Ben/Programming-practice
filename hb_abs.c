@@ -1,7 +1,7 @@
-long	hb_abs(int n)
+unsigned int	hb_abs(int n)
 {
 	if (n < 0)
-		return ((long) n * -1);
+		return ((unsigned int) n * -1);
 	else
 		return (n);
 }
