@@ -7,7 +7,7 @@ int hb_min_va(int va_len, ...)
     int     temp;
     va_list va;
 
-    i = 0;
+    i = 1;
     va_start(va, va_len);
     min = va_arg(va, int);
     while (i < va_len)
