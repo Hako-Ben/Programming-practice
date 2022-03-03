@@ -1,2 +1,2 @@
 # Programming-practice
-Challenging myself to write one function everyday and sharing it to the world to use :)
+Challenging myself to write one function everyday and sharing it with the world :)
